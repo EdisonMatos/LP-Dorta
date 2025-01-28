@@ -52,9 +52,9 @@ export const infos = {
   endereco: (
     <div>
       <p>Endereço:</p>
-      <p>A_Definir</p>
-      <p>A_Definir</p>
-      <p>A_Definir</p>
+      <p>Rua Dr. Ramos de Azevedo, nº 159 - Centro</p>
+      <p>Guarulhos - SP</p>
+      <p>CEP 07012-020</p>
     </div>
   ),
   expediente: (
